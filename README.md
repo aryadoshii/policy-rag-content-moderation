@@ -1,15 +1,8 @@
 # Policy-Grounded RAG for Explainable Song Lyrics Content Moderation
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](link-to-paper)
-[![Python 3.12+](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2024.xxxxx-b31b1b.svg)](link-when-available)
 
-Official implementation of **"Policy-Grounded Retrieval-Augmented Generation for Explainable Song Lyrics Content Moderation"**
-
-**Authors:** Arya Doshi, Shravani Gaikwad, Suhani Gunje  
+**Authors:** Arya Doshi  
 **Institution:** Vishwakarma Institute of Technology, Pune, India  
-**Conference:** [To be announced]
 
 ---
 
